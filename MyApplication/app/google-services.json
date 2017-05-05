@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "133757610052",
+    "firebase_url": "https://myfirstfcmproject-6e8d2.firebaseio.com",
+    "project_id": "myfirstfcmproject-6e8d2",
+    "storage_bucket": "myfirstfcmproject-6e8d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133757610052:android:98ebe0f1cafb29f6",
+        "android_client_info": {
+          "package_name": "com.example.akash.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133757610052-5qctmaccs09p8g42nengtm7mt60n167u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAegW-Owdx0ReDCjx3S3iP1ye8r8AYAAFs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
